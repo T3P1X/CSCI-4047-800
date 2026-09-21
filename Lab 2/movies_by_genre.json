@@ -1,0 +1,111 @@
+{
+    "genre_analysis": {
+        "Action": {
+            "movie_count": 5,
+            "average_rating": 8.56,
+            "total_box_office": 5617.5,
+            "movies": [
+                "Avatar",
+                "Gladiator",
+                "Inception",
+                "The Dark Knight",
+                "The Matrix"
+            ]
+        },
+        "Adventure": {
+            "movie_count": 2,
+            "average_rating": 8.35,
+            "total_box_office": 1804.6,
+            "movies": [
+                "Jurassic Park",
+                "Star Wars: A New Hope"
+            ]
+        },
+        "Animation": {
+            "movie_count": 3,
+            "average_rating": 8.5,
+            "total_box_office": 2178.6,
+            "movies": [
+                "Coco",
+                "Spirited Away",
+                "The Lion King"
+            ]
+        },
+        "Crime": {
+            "movie_count": 4,
+            "average_rating": 8.82,
+            "total_box_office": 687.4,
+            "movies": [
+                "Goodfellas",
+                "Pulp Fiction",
+                "The Departed",
+                "The Godfather"
+            ]
+        },
+        "Drama": {
+            "movie_count": 7,
+            "average_rating": 8.77,
+            "total_box_office": 1562.1,
+            "movies": [
+                "Fight Club",
+                "Forrest Gump",
+                "Schindler's List",
+                "The Green Mile",
+                "The Prestige",
+                "The Shawshank Redemption",
+                "Whiplash"
+            ]
+        },
+        "Family": {
+            "movie_count": 1,
+            "average_rating": 7.8,
+            "total_box_office": 792.9,
+            "movies": [
+                "E.T. the Extra-Terrestrial"
+            ]
+        },
+        "Fantasy": {
+            "movie_count": 2,
+            "average_rating": 8.9,
+            "total_box_office": 2017.5,
+            "movies": [
+                "The Lord of the Rings: The Fellowship of the Ring",
+                "The Lord of the Rings: The Return of the King"
+            ]
+        },
+        "Romance": {
+            "movie_count": 1,
+            "average_rating": 7.8,
+            "total_box_office": 2187.5,
+            "movies": [
+                "Titanic"
+            ]
+        },
+        "Science Fiction": {
+            "movie_count": 2,
+            "average_rating": 8.6,
+            "total_box_office": 1119.8,
+            "movies": [
+                "Back to the Future",
+                "Interstellar"
+            ]
+        },
+        "Thriller": {
+            "movie_count": 2,
+            "average_rating": 8.55,
+            "total_box_office": 535.4,
+            "movies": [
+                "Parasite",
+                "The Silence of the Lambs"
+            ]
+        },
+        "War": {
+            "movie_count": 1,
+            "average_rating": 8.6,
+            "total_box_office": 482.3,
+            "movies": [
+                "Saving Private Ryan"
+            ]
+        }
+    }
+}

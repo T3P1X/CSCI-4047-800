@@ -1,0 +1,50 @@
+{
+    "export_info": {
+        "export_date": "2026-09-04",
+        "criteria": "Movies directed by Steven Spielberg",
+        "total_movies": 4
+    },
+    "director": "Steven Spielberg",
+    "movies": [
+        {
+            "movie_id": 15,
+            "title": "E.T. the Extra-Terrestrial",
+            "year": 1982,
+            "genre": "Family",
+            "rating": 7.8,
+            "runtime_minutes": 115,
+            "box_office_millions": 792.9,
+            "budget_millions": 10.5
+        },
+        {
+            "movie_id": 13,
+            "title": "Jurassic Park",
+            "year": 1993,
+            "genre": "Adventure",
+            "rating": 8.1,
+            "runtime_minutes": 127,
+            "box_office_millions": 1029.2,
+            "budget_millions": 63.0
+        },
+        {
+            "movie_id": 9,
+            "title": "Schindler's List",
+            "year": 1993,
+            "genre": "Drama",
+            "rating": 8.9,
+            "runtime_minutes": 195,
+            "box_office_millions": 321.3,
+            "budget_millions": 22.0
+        },
+        {
+            "movie_id": 25,
+            "title": "Saving Private Ryan",
+            "year": 1998,
+            "genre": "War",
+            "rating": 8.6,
+            "runtime_minutes": 169,
+            "box_office_millions": 482.3,
+            "budget_millions": 70.0
+        }
+    ]
+}

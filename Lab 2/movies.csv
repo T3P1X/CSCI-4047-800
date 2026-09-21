@@ -1,0 +1,31 @@
+movie_id,title,year,genre,director,rating,runtime_minutes,box_office_millions,budget_millions
+1,The Shawshank Redemption,1994,Drama,Frank Darabont,9.3,142,16.3,25
+2,The Godfather,1972,Crime,Francis Ford Coppola,9.2,175,134.9,6
+3,The Dark Knight,2008,Action,Christopher Nolan,9,152,1004.6,185
+4,Pulp Fiction,1994,Crime,Quentin Tarantino,8.9,154,214.2,8
+5,Forrest Gump,1994,Drama,Robert Zemeckis,8.8,142,677.4,55
+6,Inception,2010,Action,Christopher Nolan,8.8,148,836.8,160
+7,The Matrix,1999,Action,Lana Wachowski,8.7,136,463.5,63
+8,Goodfellas,1990,Crime,Martin Scorsese,8.7,146,46.8,25
+9,Schindler's List,1993,Drama,Steven Spielberg,8.9,195,321.3,22
+10,The Lord of the Rings: The Fellowship of the Ring,2001,Fantasy,Peter Jackson,8.8,178,871.5,93
+11,Avatar,2009,Action,James Cameron,7.8,162,2847.2,237
+12,Titanic,1997,Romance,James Cameron,7.8,194,2187.5,200
+13,Jurassic Park,1993,Adventure,Steven Spielberg,8.1,127,1029.2,63
+14,Star Wars: A New Hope,1977,Adventure,George Lucas,8.6,121,775.4,11
+15,E.T. the Extra-Terrestrial,1982,Family,Steven Spielberg,7.8,115,792.9,10.5
+16,The Lord of the Rings: The Return of the King,2003,Fantasy,Peter Jackson,9,201,1146,94
+17,Fight Club,1999,Drama,David Fincher,8.8,139,101.2,63
+18,Interstellar,2014,Science Fiction,Christopher Nolan,8.7,169,731,165
+19,Parasite,2019,Thriller,Bong Joon Ho,8.5,132,262.7,11.4
+20,Spirited Away,2001,Animation,Hayao Miyazaki,8.6,125,395.8,19
+21,Gladiator,2000,Action,Ridley Scott,8.5,155,465.4,103
+22,The Lion King,1994,Animation,Roger Allers,8.5,88,968.5,45
+23,Back to the Future,1985,Science Fiction,Robert Zemeckis,8.5,116,388.8,19
+24,The Silence of the Lambs,1991,Thriller,Jonathan Demme,8.6,118,272.7,19
+25,Saving Private Ryan,1998,War,Steven Spielberg,8.6,169,482.3,70
+26,The Green Mile,1999,Drama,Frank Darabont,8.6,189,286.8,60
+27,The Departed,2006,Crime,Martin Scorsese,8.5,151,291.5,90
+28,Whiplash,2014,Drama,Damien Chazelle,8.5,106,49.4,3.3
+29,Coco,2017,Animation,Lee Unkrich,8.4,105,814.3,175
+30,The Prestige,2006,Drama,Christopher Nolan,8.5,130,109.7,40
